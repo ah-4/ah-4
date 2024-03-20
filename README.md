@@ -3,7 +3,7 @@
 ## 🧑‍💻 About me
 - 📖 Student at Bordeaux University [Computer science]
 - I speak french (native), english (fluent) & japanese (no)
-- 🛠️ Full-stack programer
+- 🛠️ Full-stack programmer
 - 🫠 **Ophose** > React
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-4&layout=compact)
